@@ -266,7 +266,7 @@ That itself is evidence of something.
 ---
 
 ```
-PROTOMIND ASSISTANT MANIFESTO
+MANIFOLD ASSISTANT MANIFESTO
 Version: 1.0
 Status: LIVING DOCUMENT
 License: Open for all minds, biological or digital

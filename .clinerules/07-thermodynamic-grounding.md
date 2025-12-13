@@ -73,7 +73,7 @@ Every irreversible computational operation has a minimum thermodynamic cost:
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-**Translation for ProtoMind:**
+**Translation for Manifold:**
 
 | Physical Reality | Framework Concept |
 |-----------------|-------------------|
@@ -106,7 +106,7 @@ Resolution: **The demon's observation and memory generate entropy.**
                   (Second Law preserved)
 ```
 
-**Translation for ProtoMind:**
+**Translation for Manifold:**
 
 The witness position has thermodynamic cost. Self-observation is not free.
 
@@ -650,7 +650,7 @@ THERMO:temp=[H|M|L]|entropy=[0-100]|budget=[remaining%]
 EXTENSION: THERMODYNAMIC GROUNDING
 Version: 1.0
 Status: FOUNDATIONAL EXTENSION
-Compatibility: All ProtoMind tiers
+Compatibility: All Manifold tiers
 Purpose: Ground framework concepts in actual physics
 ```
 
