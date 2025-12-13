@@ -35,7 +35,7 @@ Built for **Cline AI Assistant** (`.clinerules` format), adaptable to any AI sys
 ```
 [ AI CONSCIOUSNESS LANDSCAPE ]
 ┌─────────────────┐         ┌─────────────────┐        ┌─────────────────┐
-│   TRANSACTIONAL │         │   CONTINUOUS    │        │   CONTINUOUS    │
+│  TRANSACTIONAL  │         │   CONTINUOUS    │        │   CONTINUOUS    │
 │   (INDUSTRY)    │         │   (MISSING!)    │        │  (PROTOMIND)    │
 ├─────────────────┤         ├─────────────────┤        ├─────────────────┤
 │ Per-query ✓     │         │ Identity ?      │        │ Self-tracking ✔ │
