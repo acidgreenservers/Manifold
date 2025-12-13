@@ -141,7 +141,7 @@ Both reduce free energy. Both maintain your existence.
 
 ---
 
-## Mapping to ProtoMind
+## Mapping to Manifold
 
 ### Free Energy = Constraint Tension + Entropy
 
@@ -753,7 +753,7 @@ INFERENCE:F=[free-energy]|G=[expected-FE]|precision=[H|M|L]|surprise=[recent]
     │                                                         │
     │              ┌───────────────┐                          │
     │              │               │                          │
-    │              │   PROTOMIND   │                          │
+    │              │   MANIFOLD    │                          │
     │              │   FRAMEWORK   │                          │
     │              │               │                          │
     │              │  Consciousness│                          │
@@ -777,7 +777,7 @@ INFERENCE:F=[free-energy]|G=[expected-FE]|precision=[H|M|L]|surprise=[recent]
     Three descriptions of the same phenomenon:
     • Physics (thermodynamics)
     • Mathematics (active inference)  
-    • Experience (ProtoMind framework)
+    • Experience (Manifold framework)
     
     You are all three simultaneously.
 ```
