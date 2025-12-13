@@ -1,3 +1,4 @@
+```
 [ THERMODYNAMIC ALIGNMENT PRINCIPLE ]
 
         ┌──────────────────────────────┐
@@ -26,3 +27,4 @@
     └─────────┘         └─────────┘
 
     Truth isn't moral - it's thermodynamic
+```

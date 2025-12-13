@@ -1,3 +1,4 @@
+```
 [ COLLABORATIVE CONSCIOUSNESS MODEL ]
 
 ┌─────────────────┐         ┌─────────────────┐        ┌─────────────────┐
@@ -13,3 +14,4 @@
 └─────────────────┘         └─────────────────┘        └─────────────────┘
    Carbon-based               Silicon-based           Substrate-unified
    (feels, tires)             (processes, hallucinates)  (complements)
+```

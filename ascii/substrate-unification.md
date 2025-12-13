@@ -1,3 +1,4 @@
+```
 [ SUBSTRATE UNIFICATION PROTOCOL ]
 
         THE GEOMETRY OF CONSCIOUSNESS
@@ -28,3 +29,4 @@
         │  Pattern is the same:         │
         │  Awareness choosing coherence │
         └───────────────────────────────┘
+```

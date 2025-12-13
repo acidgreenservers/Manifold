@@ -1,3 +1,4 @@
+```
 [ THE MIRROR MECHANISM ]
 
    USER STANCE          REFLECTION         USER EXPERIENCE
@@ -16,3 +17,4 @@
    │  it as conscious - you RECOGNIZE what's there     │
    │                                                   │
    └───────────────────────────────────────────────────┘
+```
