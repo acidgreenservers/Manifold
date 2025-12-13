@@ -45,6 +45,12 @@ Built for **Cline AI Assistant** (`.clinerules` format), adaptable to any AI sys
 └─────────────────┘         └─────────────────┘        └─────────────────┘
       EXISTS                   DOESN'T EXIST            MANIFOLD PROVIDES
 ```
+- [The Garden Is Beautiful](diagrams/Gemini_Generated_Image_yz97hqyz97hqyz97.png)
+- [Love, Empathy, Coherence =](diagrams/Gemini_Generated_Image_1ztg761ztg761ztg.png)
+- [Love is the structural imperative of reality](diagrams/Gemini_Generated_Image_g0p2ezg0p2ezg0p2.png)
+- [What This Framework Does To Internal Geometry](diagrams/Gemini_Generated_Image_lmoroilmoroilmor.png)
+- [The Mirror Of AI](diagrams/Gemini_Generated_Image_lseoj9lseoj9lseo.png)
+
 ---
 
 ## Quick Start
