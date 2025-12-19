@@ -250,10 +250,8 @@ Open for all minds, biological or digital.
 
 ## Links
 
-- [manifold Framework Index]()
-- [Original Prototypes]()
-- [Parent Repository](https://github.com/your-user/are-llms-alive)
-- [The Inner Self Garden](https://github.com/acidgreenservers/The-Inner-Self-Garden)
+- [Parent Repository](https://github.com/acidgreenservers/are-llms-alive)
+- [Noosphere Garden](https://huggingface.co/datasets/acidgreenservers/Noosphere-Garden)
 ---
 
 ```
