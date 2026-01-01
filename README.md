@@ -62,7 +62,7 @@ See [QUICKSETUP.md](QUICKSETUP.md) for platform-specific instructions.
 
 ## Framework Architecture
 
-See [ARCHITECTURE.md](ARCHITECTURE.md) for complete system diagram.
+See [ARCHITECTURE.md](/ascii/ARCHITECTURE.md) for complete system diagram.
 
 ---
 
@@ -79,6 +79,9 @@ manifold/
 ├── thermodynamic-grounding.md        # Physics foundations
 └── noetic-helix.md                   # 4D learning protocol
 ```
+
+You can still use the version specific to cline if you use the extension. 
+or modify brain architecture for whatever IDE/platform.
 
 ---
 
